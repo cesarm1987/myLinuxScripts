@@ -1,0 +1,10 @@
+#!/bin/bash
+clear
+echo "Este es nuestro primer script"
+sleep 3
+echo " "
+ls -l
+echo " "
+echo "Se nos muestran los directorios y ficheros"
+echo " "
+exit

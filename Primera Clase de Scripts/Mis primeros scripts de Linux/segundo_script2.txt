@@ -1,0 +1,13 @@
+﻿#!/bin/bash
+clear
+a=100
+echo "Este script es para mostrar una variable fija"
+sleep 3
+echo
+echo
+echo "La variable a mostrar es $a"
+echo
+echo
+echo "El script está correcto y se cerrara en 4 segundos"
+sleep 4
+exit

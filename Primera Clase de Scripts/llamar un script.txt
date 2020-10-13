@@ -1,0 +1,11 @@
+Como llamamos a un script en Linux:
+
+1- Le damos los permisos necesarios
+
+2- Ejecutamos correctamente el script
+
+3- Confirmamos que tengamos la ruta correcta ya sea externa
+o local en el shell o el terminal
+
+4- Que la sequencia de comandos sea la correcta y el orden de las variables
+junto con las rutas esten escritas efectivamente

@@ -1,0 +1,15 @@
+#!/bin/bash
+echo "exito en el LPIC-1"
+echo " "
+sleep 3
+echo " "
+date
+echo " "
+cal
+echo " "
+ls -l
+echo " "
+uptime
+sleep 5
+echo " "
+clear

@@ -1,0 +1,14 @@
+#!/bin/bash
+clear
+echo "Este es un script para mostrar las variables constantes del script"
+echo
+echo
+echo "La primer variable que escribimos fue $1"
+sleep 5
+echo "La segunda variable que escribimos fue $2"
+sleep 5
+echo
+echo
+echo "Nuestro script se llama $0"
+echo "El script ha funcionado correctamente"
+exit
